@@ -1,3 +1,36 @@
 * {
   font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: hsl(32, 27%, 78%);
+}
+
+img {
+  width: 60%;
+  height: auto;
+  margin-top: 1.5em;
+}
+
+.disclaimer {
+  font-style: italic;
+}
+
+li {
+  text-align: start;
+}
+
+ol li {
+  margin-bottom: 1em;
+}
+
+ul,
+ol,
+p {
+  padding: 0 3em;
+}
+
+h2 {
+  margin-top: 1.5em;
 }
